@@ -1,5 +1,8 @@
 ### CST325 Final Project - Eashwar Sridharan
 
+# How to Run
+
+Simply  make sure you are in the project directory and run "http-server" on the console, then open one of the available links.
 # Controls
 
 **PRESS E** to toggle the camera between sun-orbiting and Earth-following.
